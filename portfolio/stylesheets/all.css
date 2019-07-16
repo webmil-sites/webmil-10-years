@@ -7542,6 +7542,9 @@ span.mobile-vertical-nav {
   vertical-align: top; }
   .hackenproof img.lazyload {
     min-height: 100px; }
+.hackenproof .wrap {
+  display: block;
+  overflow-x: hidden; }
 .hackenproof .main-header {
   position: absolute;
   top: 0;
@@ -8184,6 +8187,9 @@ span.mobile-vertical-nav {
   width: 100%;
   height: auto;
   vertical-align: top; }
+.oe .wrap {
+  display: block;
+  overflow-x: hidden; }
 .oe .main-header {
   position: absolute;
   width: 100%; }
