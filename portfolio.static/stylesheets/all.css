@@ -8464,6 +8464,7 @@ span.mobile-vertical-nav {
   position: relative;
   height: 0;
   padding-top: 59.808%;
+  padding-bottom: 70px;
   overflow: hidden;
   margin: 0 -46px; }
   .oe .mobile__item {
