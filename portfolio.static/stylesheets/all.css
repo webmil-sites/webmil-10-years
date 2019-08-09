@@ -349,8 +349,8 @@ body {
   background-color: #fff;
   min-width: 320px;
   overflow: hidden; }
-  body.loaded {
-    overflow-y: auto; }
+  /* body.loaded {
+    overflow-y: auto; } */
 
 @media only screen and (max-width: 1024px) {
   body {
@@ -1575,7 +1575,7 @@ span.circle:hover .trick {
 
   .karpaty-header {
     padding: 20px 0 40px 0; } }
-.karpaty-main__back {
+/* .karpaty-main__back {
   display: block;
   position: absolute;
   top: 0;
@@ -1584,15 +1584,15 @@ span.circle:hover .trick {
   height: 457px;
   background: url(../images/karpaty/karpaty-main-logo-back.png) top center no-repeat;
   z-index: 1;
-  background-size: cover; }
+  background-size: cover; } */
 
-@media only screen and (max-width: 1920px) {
+/* @media only screen and (max-width: 1920px) {
   .karpaty-main__back {
-    background-size: contain; } }
-@media only screen and (max-width: 960px) {
+    background-size: contain; } } */
+/* @media only screen and (max-width: 960px) {
   .karpaty-main__back {
-    background-size: cover; } }
-.karpaty-main__frame {
+    background-size: cover; } } */
+/* .karpaty-main__frame {
   display: block;
   position: absolute;
   top: 0;
@@ -1601,11 +1601,11 @@ span.circle:hover .trick {
   height: 1560px;
   background: url(../images/karpaty/karpaty-content-back.png) center top no-repeat;
   background-size: 100% 1560px;
-  z-index: 2; }
+  z-index: 2; } */
 
-@media only screen and (max-width: 1920px) {
+/* @media only screen and (max-width: 1920px) {
   .karpaty-main__frame {
-    background-size: 1920px 1560px; } }
+    background-size: 1920px 1560px; } } */
 .chapter {
   padding: 4.64286em 0;
   position: relative;
@@ -1628,7 +1628,7 @@ span.circle:hover .trick {
   position: relative;
   padding-top: 16.78571em; }
 
-.karpaty-main__logo {
+/* .karpaty-main__logo {
   position: absolute;
   left: 50%;
   top: 40px;
@@ -1639,7 +1639,7 @@ span.circle:hover .trick {
       -ms-transform: translateX(-50%);
           transform: translateX(-50%);
   background: url(../images/karpaty/karpaty-logos-first.png) no-repeat;
-  background-size: 100% 100%; }
+  background-size: 100% 100%; } */
 
 .karpaty-main__text {
   padding: 5em 0 6.07143em; }
